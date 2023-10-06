@@ -19,6 +19,8 @@
   <img style="align: center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ## Apaixonado por tecnologias e pelo aprendizado!
 
 ## Seja 1% melhor todos os dias
