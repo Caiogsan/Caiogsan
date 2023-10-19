@@ -1,3 +1,4 @@
+### Hello! My name is Caio Santos! 👋
 ### Olá! Meu nome é Caio Santos! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-santos1206/)
@@ -6,7 +7,7 @@
 
 ![Caiogsan GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiogsan&show_icons=true&theme=dracula)
 
-## Tecnologias
+## Tecnologies || Tecnologias 
 
 <div style="display: inline-block"><br/>
   <img style="align: center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,8 +22,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
+## Passionate about technologies and learning!
 ## Apaixonado por tecnologias e pelo aprendizado!
 
+## Be 1% better every day
 ## Seja 1% melhor todos os dias
 
 
