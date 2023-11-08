@@ -22,10 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-## Passionate about technologies and learning!
-## Apaixonado por tecnologias e pelo aprendizado!
 
-## Be 1% better every day
-## Seja 1% melhor todos os dias
 
 
