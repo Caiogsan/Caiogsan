@@ -5,8 +5,6 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Caiogsan)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiogsan@hotmail.com)
 
-![Caiogsan GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiogsan&show_icons=true&theme=dracula)
-
 ## Tecnologies || Tecnologias 
 
 <div style="display: inline-block"><br/>
