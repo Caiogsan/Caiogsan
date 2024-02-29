@@ -5,7 +5,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Caiogsan)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiogsan@hotmail.com)
 
-## Tecnologies || Tecnologias 
+## Technologies || Tecnologias 
 
 <div style="display: inline-block"><br/>
   <img style="align: center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
